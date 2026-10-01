@@ -1,0 +1,6 @@
+{
+  "runs": 5,
+  "samples": 100,
+  "jev_perfect_agreement_pct": 100.0,
+  "gemini_perfect_agreement_pct": 97.5
+}

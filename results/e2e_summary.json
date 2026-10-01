@@ -1,0 +1,8 @@
+{
+  "retrieval": 12.4,
+  "preprocessing": 1.45,
+  "jev": 262.2,
+  "gemini": 15753.3,
+  "db_write": 3.1,
+  "postprocessing": 1.15
+}
